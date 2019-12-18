@@ -1,5 +1,5 @@
 """
-chat room client
+chat room client  第二个方案
 """
 from socket import *
 import os,sys
